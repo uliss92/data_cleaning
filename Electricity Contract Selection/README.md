@@ -1,9 +1,6 @@
 # Data Cleaning on Electricity Usage Data
 ### Summary
-In this project i have been provided with data of Electricity Provider
-Company. As data was in a unstructured and unsorted format i had to
-clean data and turn it into usable format. My second task was select
-optimal contract based on usage history.
+In this project I have been provided with data on Electricity Provider companies. As data was in an unstructured and unsorted format I had to clean data and turn it into a usable format. My second task was a select optimal contracts based on usage history.
 
 ### Electricity Contract Selection
 
